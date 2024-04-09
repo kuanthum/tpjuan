@@ -1,0 +1,13 @@
+.html{
+    background-color: white;
+}
+.card {
+    width: 15rem; /* Ancho de la card */
+    margin-bottom: 30px; /* Espacio entre las cards */
+    
+}
+.card:hover{
+    
+    width: 16rem;
+    animation-duration: 1s;
+}
